@@ -5,5 +5,8 @@ public class hello {
 
         int myFirstNumber = 3;
         System.out.println(myFirstNumber);
+
+        int teezusFirstString = 100;
+        System.out.println(teezusFirstString);
     }
 }
