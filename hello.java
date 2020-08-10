@@ -6,7 +6,9 @@ public class hello {
         int myFirstNumber = 3;
         System.out.println(myFirstNumber);
 
-        int teezusFirstString = 100;
+        int teezusFirstString = 10 + 5;
         System.out.println(teezusFirstString);
+
     }
+
 }
