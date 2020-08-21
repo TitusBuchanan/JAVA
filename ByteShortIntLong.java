@@ -37,6 +37,8 @@ public class ByteShortIntLong {
 
         byte myNewByteValue = (byte) (myMinByteValue / 2);
 
+        byte myNewByteValue = (byte) (myMinByteValue / 2);
+
         short myNewShortValue = (short) (myMinShortValue / 2);
 
     }
