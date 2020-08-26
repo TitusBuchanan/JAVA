@@ -4,6 +4,7 @@ public class hello {
         System.out.println("Hello Titus");
 
         int myFirstNumber = 3;
+        int myNewFirstNumber = 28;
         int mySecondNumber = 203993;
         int myThirdNumber = (10 + 5) + (6 * 504953);
         int myTotal = myFirstNumber + mySecondNumber + myThirdNumber;
